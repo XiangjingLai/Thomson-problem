@@ -1,1 +1,1 @@
-# Thomson-problem
+# minimum energy configuration
